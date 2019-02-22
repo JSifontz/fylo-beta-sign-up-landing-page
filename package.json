@@ -1,0 +1,15 @@
+{
+  "name": "fylo-beta-sing-up-landing-page",
+  "version": "1.0.0",
+  "description": "A frontend mentor exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML",
+    "CSS"
+  ],
+  "author": "Juan Sifontez",
+  "license": "MIT"
+}
